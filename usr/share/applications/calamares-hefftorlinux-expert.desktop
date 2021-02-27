@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=Install HefftorLinux
+Name=Install HefftorLinux Expert
 Comment=Installer for HefftorLinux
 Categories=Utility;
-Exec=pkexec calamares
+Exec=pkexec calamares -c /etc/calamares-expert
 Icon=hefftorlinux

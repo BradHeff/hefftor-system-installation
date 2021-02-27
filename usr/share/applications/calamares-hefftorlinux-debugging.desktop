@@ -3,5 +3,5 @@ Type=Application
 Name=Install HefftorLinux with debugging mode on
 Comment=Installer for HefftorLinux to debug
 Categories=Utility;
-Exec=pkexec calamares -d
+Exec=pkexec calamares -d -c /etc/calamares-basic
 Icon=hefftorlinux
